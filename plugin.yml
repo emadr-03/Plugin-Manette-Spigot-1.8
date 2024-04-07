@@ -1,0 +1,15 @@
+name: Manette
+main: main.Main
+version: 1
+author: Colui
+description: "Aggiunge le manette in minecraft"
+commands:
+ gm:
+  description: "Shortcut gamemode"
+  aliases: [giemme]
+ blocca:
+  description: "Blocca un player"
+  aliases: [bl]
+ givemanette:
+  description: "Fornisci le manette ad un player"
+  aliases: [givem]
